@@ -1,0 +1,9 @@
+Date: 18/01/2021
+
+1. Deep Learning for Image-Based Cassava Disease Detection 
+
+https://www.frontiersin.org/articles/10.3389/fpls.2017.01852/full?report=reader
+
+2. Using deep learning to predict soil properties from regional spectral data
+
+https://www.researchgate.net/publication/329241581_Using_deep_learning_to_predict_soil_properties_from_regional_spectral_data

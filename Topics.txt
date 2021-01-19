@@ -11,3 +11,7 @@ https://www.researchgate.net/publication/329241581_Using_deep_learning_to_predic
 3.How artificial intelligence and machine learning can help healthcare systems respond to COVID-19
 
 https://link.springer.com/article/10.1007/s10994-020-05928-x
+
+4.Machine Learning Predicts Laboratory Earthquakes
+
+https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2017GL074677

@@ -7,3 +7,7 @@ https://www.frontiersin.org/articles/10.3389/fpls.2017.01852/full?report=reader
 2. Using deep learning to predict soil properties from regional spectral data
 
 https://www.researchgate.net/publication/329241581_Using_deep_learning_to_predict_soil_properties_from_regional_spectral_data
+
+3.How artificial intelligence and machine learning can help healthcare systems respond to COVID-19
+
+https://link.springer.com/article/10.1007/s10994-020-05928-x

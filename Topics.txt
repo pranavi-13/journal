@@ -15,3 +15,11 @@ https://link.springer.com/article/10.1007/s10994-020-05928-x
 4.Machine Learning Predicts Laboratory Earthquakes
 
 https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2017GL074677
+
+5. IoT-Cloud based framework for patient’s data collection in smart healthcare system using Raspberry-pi
+
+Link:https://www.researchgate.net/profile/Kavita_Jaiswal/publication/322413437_IoT-cloud_based_framework_for_patient%27s_data_collection_in_smart_healthcare_system_using_raspberry-pi/links/5a755ca7a6fdccbb3c0599b3/IoT-cloud-based-framework-for-patients-data-collection-in-smart-healthcare-system-using-raspberry-pi.pdf
+
+6.smart healthcare monitoring for drivers 
+
+https://wwww.easychair.org/publications/preprint_download/RxGr

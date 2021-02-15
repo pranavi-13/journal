@@ -1,0 +1,20 @@
+Rice Leaf Dataset:
+
+1) https://www.kaggle.com/vbookshelf/rice-leaf-diseases\
+(small dataset; Disease detected in this datset: Bacterial leaf blight,brown spot,leaf smut)
+
+2) https://www.kaggle.com/minhhuy2810/rice-diseases-image-dataset
+(Diseases detected in this dataset: brown spot,hispa,leafblast- 2000 images dataset)
+
+3) https://www.kaggle.com/shayanriyaz/riceleafs
+(Contains 3355 images of BrownSpot, Healthy, Hispa, LeafBlast) 
+
+4)https://github.com/aldrin233/RiceDiseases-DataSet
+(bacterial leaf blight, blast, brownspot. Smaller dataset, 80-100 images per disease)
+
+Detecting disease in plants:
+
+https://medium.com/analytics-vidhya/plants-doctor-detecting-diseases-in-plants-e5c44c569bdb
+Dataset: https://github.com/spMohanty/PlantVillage-Dataset
+(huge dataset) 
+Description: It contains images of 17 fungal diseases, 4 bacterial diseases, 2 molds (oomycete) diseases, 2 viral diseases, and 1 disease caused by a mite. 12 crop species also have images of healthy leaves that are not visibly affected by a disease. It has 38 classes of diseases.

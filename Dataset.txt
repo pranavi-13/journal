@@ -12,6 +12,8 @@ Rice Leaf Dataset:
 4)https://github.com/aldrin233/RiceDiseases-DataSet
 (bacterial leaf blight, blast, brownspot. Smaller dataset, 80-100 images per disease)
 
+5) https://data.mendeley.com/datasets/rpck298r8b/1
+
 Detecting disease in plants:
 
 https://medium.com/analytics-vidhya/plants-doctor-detecting-diseases-in-plants-e5c44c569bdb

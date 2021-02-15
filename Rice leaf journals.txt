@@ -1,3 +1,13 @@
 1) https://www.scirp.org/html/5-1731458_105804.htm
  Done using 1st dataset added in Rice Dataset file.
-99.42% accuracy using Alex Net 
+99.42% accuracy using Alex Net
+
+2)https://arxiv.org/abs/2004.09870
+88.07% accuracy using dual phase CNN
+Dataset used - https://drive.google.com/drive/folders/1AJZdWu-_VTXNvJZTNAF0kciI5g8N97mJ
+
+3) https://onlinelibrary.wiley.com/doi/abs/10.1002/jsfa.10365
+94.07% accuracy for public dataset
+
+4) https://ieeexplore.ieee.org/abstract/document/9106423
+ 92.46% accuracy using CNN VGC-16  

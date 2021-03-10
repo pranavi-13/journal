@@ -11,3 +11,9 @@ Dataset used - https://drive.google.com/drive/folders/1AJZdWu-_VTXNvJZTNAF0kciI5
 
 4) https://ieeexplore.ieee.org/abstract/document/9106423
  92.46% accuracy using CNN VGC-16  
+
+5) https://www.researchgate.net/profile/Prabira_Sethy/publication/312494913_Detection_of_Healthy_and_Defected_Diseased_Leaf_of_Rice_Crop_using_K-Means_Clustering_Technique/links/587f198b08aed3826af46ed6/Detection-of-Healthy-and-Defected-Diseased-Leaf-of-Rice-Crop-using-K-Means-Clustering-Technique.pdf
+
+6) https://www.researchgate.net/profile/Archana_Ks/publication/327222832_Automatic_Rice_Leaf_Disease_Segmentation_Using_Image_Processing_Techniques/links/5c038ccba6fdcc1b8d4e80ea/Automatic-Rice-Leaf-Disease-Segmentation-Using-Image-Processing-Techniques.pdf
+
+7) https://www.researchgate.net/publication/318437440_Detection_and_classification_of_rice_plant_diseases
